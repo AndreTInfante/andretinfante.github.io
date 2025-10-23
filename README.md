@@ -19,8 +19,6 @@ I build model‑driven interactive software, robots, games, and sometimes other 
 
 - **[Scriber — continuous‑learning transcription app](https://youtu.be/S0wsxpnubdM)** 
   Human‑in‑the‑loop ASR that continuously fine-tunes on corrections in the background, allowing quality to improve as you go.
-- **[Horizon Worlds — Avatar Legs (Meta)](https://www.meta.com/experiences/2532035600194083/)**  
-  At Meta, I worked on avatar animation and embodiment improvements and shipped procedural avatar legs and performant fake avatar shadows, plus a ton of bug fixes.
 - **[Minion (Minion AI)](https://twitter.com/ai_minion)**  
   At Minion, I explored using VLMs and multi-level control interfaces for browser automation.
 - **[Video Generation using Stable Diffusion (2022)](https://imgur.com/a/1utP3VC)** — personal project  
@@ -38,6 +36,8 @@ I build model‑driven interactive software, robots, games, and sometimes other 
 
 - **[Lords & Language Models — single‑player, model‑powered D&D](https://lordsandlanguages.onrender.com)** · [video](https://www.youtube.com/watch?v=qXaFiu2Wayg)  
   Solo TTRPG powered by LMs; uses structured output to integrate rigid, mechanical game elements with language model flexibility.
+- **[Horizon Worlds — Avatar Legs (Meta)](https://www.meta.com/experiences/2532035600194083/)**  
+  At Meta, I worked on avatar animation and embodiment improvements and shipped procedural avatar legs and performant fake avatar shadows, plus a ton of bug fixes.
 - **[One Night Ultimate Werewolf (Bézier Games)](https://play.google.com/store/apps/details?id=com.mobieos.karan.Wolf_Android14_11_13&hl=en_US&gl=US)**  
   Built a new version of the classic party game for Bezier Games on a new platform (Unity). 
 - **[Cards Against Machinery](https://andretinfante.itch.io/cards-against-machinery)** — personal project  
