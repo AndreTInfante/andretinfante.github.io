@@ -29,8 +29,8 @@ I build model‑driven interactive software, robots, games, and sometimes other 
   Quest 2 game prototype built around a novel locomotion system.
 - **[The FOO Show / FOO VR](https://store.steampowered.com/app/411820/The_FOO_Show_featuring_Will_Smith/)**  
   At FOO, I built a real-time networked VR virtual production tool that we used to make an interactive talk show (briefly the best-rated free VR title on Steam), several GameStop commercials and a show for Adult Swim.
-- **[Pregame Prognostifications Of The Pigskin Wyzzard (Adult Swim)](https://www.youtube.com/watch?v=ATfGpIQEHj8)**  
-   Adult Swim web cartoon made using my/FOO's virtual production pipeline for Cartoon Network's Adult Swim, in a live production capacity.
+  - **[Pregame Prognostifications Of The Pigskin Wyzzard (Adult Swim)](https://www.youtube.com/watch?v=ATfGpIQEHj8)**  
+     Adult Swim web cartoon made using my/FOO's virtual production pipeline for Cartoon Network's Adult Swim, in a live production capacity.
 - **[Tree‑Based LM Sampler for URL Prediction](https://github.com/AndreTInfante/ConstrainedLMSampler)** — personal project  
   Constrained model decoding tool to allow a model to predict URLs that are guaranteed to be valid from a known whitelist.
 
