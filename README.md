@@ -61,8 +61,8 @@ I build model‑driven interactive software, robots, games, and sometimes other 
 ## Contact
 
 - Email: aticper(at)gmail(dot)com
-- GitHub: https://github.com/AndreTInfante
-- Linkedin: https://www.linkedin.com/in/andre-infante-b6098511b/
+- [GitHub](https://github.com/AndreTInfante)
+- [Linkedin](https://www.linkedin.com/in/andre-infante-b6098511b/)
 
 ---
 
