@@ -25,8 +25,6 @@ I build model‑driven interactive software, robots, games, and sometimes other 
   At Minion, I explored using VLMs and multi-level control interfaces for browser automation.
 - **[Video Generation using Stable Diffusion (2022)](https://imgur.com/a/1utP3VC)** — personal project  
   Early SD video tests, experimenting with generating videos from the latent space of fine-tuned models.
-- **[Sector Security](https://youtu.be/9Ozr2EQlMW4)** — personal project  
-  Quest 2 game prototype built around a novel locomotion system.
 - **[The FOO Show / FOO VR](https://store.steampowered.com/app/411820/The_FOO_Show_featuring_Will_Smith/)**  
   At FOO, I built a real-time networked VR virtual production tool that we used to make an interactive talk show (briefly the best-rated free VR title on Steam), several GameStop commercials and a show for Adult Swim.
   - **[Pregame Prognostifications Of The Pigskin Wyzzard (Adult Swim)](https://www.youtube.com/watch?v=ATfGpIQEHj8)**  
@@ -46,6 +44,8 @@ I build model‑driven interactive software, robots, games, and sometimes other 
   Lightweight, multiplayer Cards Against Humanity clone, using ~10^6 AI generated cards for variety. (NSFW)
 - **[Jar Wars (Farbridge)](https://store.steampowered.com/app/1095060/Jar_Wars/)**  
   Playful VR arena shooter. Joined as a contractor towards the end of development and helped out with optimization and bug fixes to get it over the launch finish line.
+- **[Sector Security](https://youtu.be/9Ozr2EQlMW4)** — personal project  
+  Quest 2 game prototype built around a novel locomotion system.
 
 ---
 
