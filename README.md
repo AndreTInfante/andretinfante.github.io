@@ -51,9 +51,9 @@ I build model‑driven interactive software, robots, games, and sometimes other 
 
 ## ✍️ Writing
 
-- **Substack**: https://substack.com/@andreinfante  
+- **[Substack](https://substack.com/@andreinfante)**
   Occasional long‑form pieces on AI, software, and other topics.
-- **Twitter/X**: https://twitter.com/AndreTI  
+- **[Twitter/X](https://twitter.com/AndreTI)**:
   Unhinged ravings.
 
 ---
